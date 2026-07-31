@@ -1,7 +1,10 @@
 import os
 import telebot
+from telebot import apihelper
 from google import genai
 from google.genai import types
+
+apihelper.proxy = {'https': 'http://proxy.server:3128'}
 
 # --- НАСТРОЙКИ ---
 # Вставь сюда свой токен от Telegram-бота (из BotFather)
