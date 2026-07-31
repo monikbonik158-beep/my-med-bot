@@ -5,7 +5,7 @@ from google.genai import types
 
 # --- НАСТРОЙКИ ---
 # Вставь сюда свой токен от Telegram-бота (из BotFather)
-TELEGRAM_BOT_TOKEN = '8662145672:AAGb4D3rN58ooGifxaJ3TGnBTsAuOnjk-cU'
+TELEGRAM_BOT_TOKEN = '8662145672:AAGvMYxn_dgXM__RQrQj1FksY1C5OTQG3a8'
 
 # Вставь сюда свой API-ключ от Google AI Studio (который ты создал)
 GEMINI_API_KEY = 'AQ.Ab8RN6Lq6dhk2XGLJw8y3nL01lNOoescVOQj_mleYidRmVT8cA'
